@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon -e css,ejs,js,json --watch app --ignore feedback.json"
   },
-  "author": "Ray Villalobos",
+  "author": "Sandeep Singh",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.15.2",
